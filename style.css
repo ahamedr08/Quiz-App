@@ -38,14 +38,14 @@ button {
   height: 40px;
   font-size: 16px;
   font-family: "Times New Roman", serif;
-  background-color: #eaeaea;
+  background-color: #87CEEB;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color:#0056b3;
+  background-color: #5c9dcf;
 }
 
 #controls-container {
